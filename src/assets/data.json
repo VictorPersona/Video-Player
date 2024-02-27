@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "src": "https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4",
+    "title": "Funny Cats Compilation",
+    "description": "A compilation of hilarious cat videos."
+  },
+  {
+    "id": "2",
+    "src": "https://s3.amazonaws.com/codecademy-content/courses/React/react_video-slow.mp4",
+    "title": "Dog Tricks Tutorial",
+    "description": "Learn how to teach your dog cool tricks!"
+  },
+  {
+    "id": "3",
+    "src": "https://s3.amazonaws.com/codecademy-content/courses/React/react_video-cute.mp4",
+    "title": "Birds Singing in the Morning",
+    "description": "Enjoy the beautiful songs of birds in the morning."
+  }
+]

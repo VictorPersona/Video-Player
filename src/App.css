@@ -4,4 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+.checkForm {
+  display: flex;
+}
 
+.checkForm label {
+  margin-right: 20px;
+}
